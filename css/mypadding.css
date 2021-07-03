@@ -1,0 +1,15 @@
+div {
+    font-size: 30px;
+    color: rgb(8, 83, 83);
+    border: 7px solid rgb(116, 29, 29);
+    background-color: rgb(160, 206, 52);
+    padding-top: 100px;
+    padding-left: 70px;
+    padding-bottom: 50px;
+    padding-right: 70px;
+
+    margin-top: 150px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+    margin-right: 300px;
+}
